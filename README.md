@@ -1,2 +1,4 @@
 # ALU
-大一下计算机组织与结构
+The homework of Computer Organization and Architecture
+
+Some functions to complete the calculation
